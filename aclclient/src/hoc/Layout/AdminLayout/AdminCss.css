@@ -1,0 +1,27 @@
+
+.AdminHeader{
+    background-color: rgb(221,160,221);
+    color: ghostwhite !important;
+}
+
+.adminFooter{
+    padding-left: 2%;
+    background-color: rgb(221,160,221);
+    color: ghostwhite;
+    font-style: italic;
+    font-size: 12px;
+    height: 20px;
+}
+
+.adminMenu{
+    min-height: 430px;
+    background-color: rgb(221,160,221);
+    color: ghostwhite !important;
+    align-items:unset !important;
+    font-size: 14px !important;
+}
+
+.adminLayout{
+    width: 100%;
+    min-height: 430px;
+}
